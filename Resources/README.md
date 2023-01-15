@@ -1,0 +1,1 @@
+#All of this resources from this courses: [link](https://www.udemy.com/course/web-scraping-in-python-with-beautifulsoup-and-selenium/)
